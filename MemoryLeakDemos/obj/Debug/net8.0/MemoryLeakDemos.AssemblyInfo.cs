@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemoryLeakDemos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+247d031593d5c82a8993bff5b588925c8af07942")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4641c4ae3d23a0741a011e50b38873ce960f1e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemoryLeakDemos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemoryLeakDemos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
