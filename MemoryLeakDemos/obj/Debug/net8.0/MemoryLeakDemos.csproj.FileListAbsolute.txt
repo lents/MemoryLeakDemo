@@ -1,0 +1,15 @@
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.GeneratedMSBuildEditorConfig.editorconfig
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.AssemblyInfoInputs.cache
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.AssemblyInfo.cs
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.csproj.CoreCompileInputs.cache
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.sourcelink.json
+/app/MemoryLeakDemos/bin/Debug/net8.0/MemoryLeakDemos
+/app/MemoryLeakDemos/bin/Debug/net8.0/MemoryLeakDemos.deps.json
+/app/MemoryLeakDemos/bin/Debug/net8.0/MemoryLeakDemos.runtimeconfig.json
+/app/MemoryLeakDemos/bin/Debug/net8.0/MemoryLeakDemos.dll
+/app/MemoryLeakDemos/bin/Debug/net8.0/MemoryLeakDemos.pdb
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.dll
+/app/MemoryLeakDemos/obj/Debug/net8.0/refint/MemoryLeakDemos.dll
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.pdb
+/app/MemoryLeakDemos/obj/Debug/net8.0/MemoryLeakDemos.genruntimeconfig.cache
+/app/MemoryLeakDemos/obj/Debug/net8.0/ref/MemoryLeakDemos.dll
